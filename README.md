@@ -20,7 +20,6 @@ Check out the live website here: [Visit My Portfolio](https://dikshita-portfolio
 - Project showcase with images and links
 - Downloadable resume
 - Dark/light mode
-- Animation on scroll
 
 ## 📸 Screenshots
 
