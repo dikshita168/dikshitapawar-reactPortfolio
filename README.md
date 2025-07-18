@@ -11,7 +11,7 @@ Check out the live website here: [Visit My Portfolio](https://dikshita-portfolio
 - **React.js** – Frontend framework
 - **React Router** – Page routing
 - **CSS3** – Styling
-- 
+
 ## Features
 
 - Responsive layout for desktop and mobile
